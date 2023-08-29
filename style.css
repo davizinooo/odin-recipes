@@ -1,0 +1,32 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.container, h1, h2, h3, p{
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+.list a {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+
